@@ -110,7 +110,6 @@ A comprehensive Python application for building custom pizzas with advanced nutr
 - Statistical analysis of nutritional values
 
 
-```
 
 ### CSV Data Export
 - Comprehensive nutritional breakdown
